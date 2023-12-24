@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/nixyproject-cfd/vip/blob/main/logo.png.jpg">
+    <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/logo.png.jpg">
 </div>
 
 ##
