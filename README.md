@@ -14,7 +14,7 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 ## COMMAND
 <img src="https://img.shields.io/badge/INSTALL-SCRIPT-green"></img>
  ```html
- apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/andraxstore.sh && chmod +x andraxstore.sh && ./andraxstore.sh
+ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/andraxVPN.sh && chmod +x andraxVPN.sh && ./andraxVPN.sh
   ```
  <img src="https://img.shields.io/badge/UPDATE-SCRIPT-green"></img>
  ```html
