@@ -23,39 +23,45 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 ## 
 
 
-## :lock: Secure Your Network
+<div align="center">
 
-Explore our [
+# :lock: Secure Your Network
 
-Explore our [Security Guide](https://github.com/you
+Explore our [Security Guide](https://github.com/your-username/your-repo/wiki/Security-Guide) to implement best practices and fortify your server against potential threats.
 
+[![Security Guide](https://img.shields.io/badge/Security%20Guide-Explore-blueviolet?style=for-the-badge)](https://github.com/your-username/your-repo/wiki/Security-Guide)
 
-Security Guide](https://github.com/your-username/your-repo/wiki/Security-Guide) to implement best practices and fortify your server against potential threats.
+</div>
 
-## :globe_with_meridians: Connect with Us
+<div align="center">
 
-Stay updated on Twitter [
+# :globe_with_meridians: Connect with Us
 
-Stay updated on Twitter [@YourProjectHandle](https://twi
+Stay updated on Twitter [@YourProjectHandle](https://twitter.com/YourProjectHandle) for the latest news, tips, and announcements. Join our [Community Forum](https://community.example.com) to engage with other users and receive support.
 
+[![Follow us on Twitter](https://img.shields.io/twitter/follow/YourProjectHandle?style=social&logo=twitter)](https://twitter.com/YourProjectHandle)
+[![Community Forum](https://img.shields.io/badge/Community-Forum-brightgreen?style=for-the-badge)](https://community.example.com)
 
-Stay updated on Twitter [@Yo
+</div>
 
+<div align="center">
 
-Stay updated on 
-@YourProjectHandle](https://twitter.com/YourProjectHandle) for the latest news, tips, and announcements. Join our [Community Forum](https://community.example.com) to engage with other users and receive support.
+# :office: Contributors
 
-## :office: Contributors
+We appreciate contributions! Check our [Contributing Guidelines](CONTRIBUTING.md) to get started.
 
-We appreciate contributions! Check our [
+[![Contributing Guidelines](https://img.shields.io/badge/Contributing-Guidelines-orange?style=for-the-badge)](CONTRIBUTING.md)
 
-We appreciate contribu
-Contributing Guidelines](CONTRIBUTING.md) to get started.
+</div>
 
-## :scroll: License
+<div align="center">
 
-This project is licensed under the [
+# :scroll: License
 
-This project is licensed under the [MI
-MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE).
+
+[![License](https://img.shields.io/github/license/your-username/your-repo?style=for-the-badge)](LICENSE)
+
+</div>
+
 
