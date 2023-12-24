@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Andraxvpn/script-auto-instal-/tree/main/logo.png.jpg">
+    <img src="https://github.com/Andraxvpn/script-auto-instal-/blob/main/logo.png.jpg">
 </div>
 
 ##
