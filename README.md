@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="  <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/logo.png.jpg" alt="CyberGuard Logo">
+    <img src="  <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/logo.png.jpg">
 
 </div>
 
