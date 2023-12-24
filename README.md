@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://github.com/Andraxvpn/script-auto-instal-/blob/main/logo.png.jpg">
+    <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/logo.png.jpg">
 </div>
 
 ##
@@ -14,10 +14,10 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 ## COMMAND
 <img src="https://img.shields.io/badge/INSTALL-SCRIPT-green"></img>
  ```html
- apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/nixyproject-cfd/vip/main/nixystore.sh && chmod +x nixystore.sh && ./nixystore.sh
+ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/andraxstore.sh && chmod +x andraxstore.sh && ./andraxstore.sh
   ```
  <img src="https://img.shields.io/badge/UPDATE-SCRIPT-green"></img>
  ```html
- wget https://raw.githubusercontent.com/nixyproject-cfd/vip/main/nixy.sh && chmod +x nixy.sh && ./nixy.sh
+ wget https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/andrax.sh && chmod +x andrax.sh && ./andrax.sh
  ```
 ## 
