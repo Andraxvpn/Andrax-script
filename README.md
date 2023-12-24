@@ -56,6 +56,41 @@ We appreciate contributions! Check our [Contributing Guidelines](CONTRIBUTING.md
 
 <div align="center">
 
+# :hammer_and_wrench: Development
+
+- Check our [Roadmap](https://github.com/your-username/your-repo/wiki/Roadmap) for upcoming features and enhancements.
+- Report bugs or suggest features on our [Issue Tracker](https://github.com/your-username/your-repo/issues).
+
+[![Roadmap](https://img.shields.io/badge/Roadmap-Check-lightblue?style=for-the-badge)](https://github.com/your-username/your-repo/wiki/Roadmap)
+[![Issue Tracker](https://img.shields.io/badge/Issue%20Tracker-Report-red?style=for-the-badge)](https://github.com/your-username/your-repo/issues)
+
+</div>
+
+<div align="center">
+
+# :chart_with_upwards_trend: Statistics
+
+- View project statistics and insights on [GitHub Insights](https://github.com/your-username/your-repo/graphs).
+
+[![GitHub Insights](https://img.shields.io/badge/GitHub%20Insights-View-brightgreen?style=for-the-badge)](https://github.com/your-username/your-repo/graphs)
+
+</div>
+
+
+<div align="center">
+
+# :money_with_wings: Support Us
+
+If you find our project helpful, consider supporting us through donations.
+
+[![Donate](https://img.shields.io/badge/Donate-Support%20Us-brightgreen?style=for-the-badge)](https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_BUTTON_ID)
+
+</div>
+
+
+
+<div align="center">
+
 # :scroll: License
 
 This project is licensed under the [MIT License](LICENSE).
