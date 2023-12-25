@@ -1,6 +1,6 @@
 #!/bin/bash
 # Edition : Stable Edition V3.0
-# Auther  : Geo Project
+# Auther  : Andrax
 # (C) Copyright 2023
 # =========================================
 
