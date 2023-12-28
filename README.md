@@ -21,7 +21,7 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
  wget https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/andrax.sh && chmod +x andrax.sh && ./andrax.sh
  ```
 
-##appearance 
+## appearance 
 <p float="left">
   <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/1.jpg" width="100" />
   <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/2.jpg" width="100" /> 
