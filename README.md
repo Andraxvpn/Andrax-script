@@ -14,7 +14,7 @@ src="https://img.shields.io/badge/Service-V2ray-success.svg">  <img src= "https:
 ## COMMAND
 <img src="https://img.shields.io/badge/INSTALL-SCRIPT-green"></img>
  ```html
- apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/andraxVPN.sh && chmod +x andraxVPN.sh && ./andraxVPN.sh
+sudo su apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/andraxVPN.sh && chmod +x andraxVPN.sh && ./andraxVPN.sh
   ```
  <img src="https://img.shields.io/badge/UPDATE-SCRIPT-green"></img>
  ```html
@@ -46,7 +46,7 @@ Explore our [Security Guide](https://github.com/your-username/your-repo/wiki/Sec
 
 # :globe_with_meridians: Connect with Us
 
-Stay updated on Twitter [@YourProjectHandle](https://twitter.com/YourProjectHandle) for the latest news, tips, and announcements. Join our [Community Forum](https://community.example.com) to engage with other users and receive support.
+Stay updated on Telegram [@YourProjectHandle](https://t.me/AndraxGrp) for the latest news, tips, and announcements. Join our [Community Forum](https://community.example.com) to engage with other users and receive support.
 
 [![Follow us on Twitter](https://img.shields.io/twitter/follow/YourProjectHandle?style=social&logo=twitter)](https://twitter.com/YourProjectHandle)
 [![Community Forum](https://img.shields.io/badge/Community-Forum-brightgreen?style=for-the-badge)](https://community.example.com)
