@@ -29,6 +29,24 @@ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && ge
 </p>
 
 
+
+# Panduan Penggunaan andraxVPN.sh
+
+## Deskripsi
+Skrip `andraxVPN.sh` digunakan untuk mengatur dan mengelola koneksi VPN menggunakan berbagai protokol seperti OpenSSH, V2Ray (VMess), dan Trojan.
+
+## Instalasi
+Pastikan Anda telah menginstal dependensi yang diperlukan sebelum menjalankan skrip ini.
+
+1. Unduh skrip dari repositori ini.
+2. Berikan izin eksekusi pada skrip:
+   ```bash
+   chmod +x andraxVPN.sh
+   
+
+
+
+
 ## 
 
 
