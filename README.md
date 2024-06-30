@@ -30,100 +30,38 @@ apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && ge
 
 
 
-# Panduan Penggunaan andraxVPN.sh
 
-## Deskripsi
-Skrip `andraxVPN.sh` digunakan untuk mengatur dan mengelola koneksi VPN menggunakan berbagai protokol seperti OpenSSH, V2Ray (VMess), dan Trojan.
+## Masalah
 
-## Instalasi
-Pastikan Anda telah menginstal dependensi yang diperlukan sebelum menjalankan skrip ini.
+Jika Anda mengalami pesan kesalahan `bash: ./andraxVPN.sh: /bin/bash^M: bad interpreter: No such file or directory`, hal ini disebabkan oleh format akhir baris dari Windows yang tidak cocok dengan lingkungan Unix/Linux.
 
-1. Unduh skrip dari repositori ini.
-2. Berikan izin eksekusi pada skrip:
-   ```bash
-   chmod +x andraxVPN.sh
-   
+## Solusi
 
+### Langkah 1: Konversi Format Akhir Baris
 
+Gunakan perintah berikut untuk mengubah format akhir baris dari Windows ke Unix/Linux:
 
+```bash
+dos2unix andraxVPN.sh
+```
 
-## 
+Jika Anda tidak memiliki `dos2unix`, gunakan perintah alternatif:
 
+```bash
+tr -d '\r' < andraxVPN.sh > andraxVPN_unix.sh
+```
 
-<div align="center">
+### Langkah 2: Jalankan Script Kembali
 
-# :lock: Secure Your Network
+Setelah konversi selesai, jalankan kembali script dengan perintah:
 
-Explore our [Security Guide](https://github.com/your-username/your-repo/wiki/Security-Guide) to implement best practices and fortify your server against potential threats.
+```bash
+./andraxVPN.sh
+```
 
-[![Security Guide](https://img.shields.io/badge/Security%20Guide-Explore-blueviolet?style=for-the-badge)](https://github.com/your-username/your-repo/wiki/Security-Guide)
+Dengan melakukan langkah-langkah di atas, masalah `bad interpreter` seharusnya dapat diatasi.
 
-</div>
+```
 
-<div align="center">
-
-# :globe_with_meridians: Connect with Us
-
-Stay updated on Telegram [@YourProjectHandle](https://t.me/AndraxGrp) for the latest news, tips, and announcements. Join our [Community Forum](https://community.example.com) to engage with other users and receive support.
-
-[![Follow us on Twitter](https://img.shields.io/twitter/follow/YourProjectHandle?style=social&logo=twitter)](https://twitter.com/YourProjectHandle)
-[![Community Forum](https://img.shields.io/badge/Community-Forum-brightgreen?style=for-the-badge)](https://community.example.com)
-
-</div>
-
-<div align="center">
-
-# :office: Contributors
-
-We appreciate contributions! Check our [Contributing Guidelines](CONTRIBUTING.md) to get started.
-
-[![Contributing Guidelines](https://img.shields.io/badge/Contributing-Guidelines-orange?style=for-the-badge)](CONTRIBUTING.md)
-
-</div>
-
-<div align="center">
-
-# :hammer_and_wrench: Development
-
-- Check our [Roadmap](https://github.com/your-username/your-repo/wiki/Roadmap) for upcoming features and enhancements.
-- Report bugs or suggest features on our [Issue Tracker](https://github.com/your-username/your-repo/issues).
-
-[![Roadmap](https://img.shields.io/badge/Roadmap-Check-lightblue?style=for-the-badge)](https://github.com/your-username/your-repo/wiki/Roadmap)
-[![Issue Tracker](https://img.shields.io/badge/Issue%20Tracker-Report-red?style=for-the-badge)](https://github.com/your-username/your-repo/issues)
-
-</div>
-
-<div align="center">
-
-# :chart_with_upwards_trend: Statistics
-
-- View project statistics and insights on [GitHub Insights](https://github.com/your-username/your-repo/graphs).
-
-[![GitHub Insights](https://img.shields.io/badge/GitHub%20Insights-View-brightgreen?style=for-the-badge)](https://github.com/your-username/your-repo/graphs)
-
-</div>
-
-
-<div align="center">
-
-# :money_with_wings: Support Us
-
-If you find our project helpful, consider supporting us through donations.
-
-[![Donate](https://img.shields.io/badge/Donate-Support%20Us-brightgreen?style=for-the-badge)](https://www.paypal.com/donate?hosted_button_id=YOUR_PAYPAL_BUTTON_ID)
-
-</div>
-
-
-
-<div align="center">
-
-# :scroll: License
-
-This project is licensed under the [MIT License](LICENSE).
-
-[![License](https://img.shields.io/github/license/your-username/your-repo?style=for-the-badge)](LICENSE)
-
-</div>
-
+---
 
