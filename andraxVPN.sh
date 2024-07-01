@@ -44,7 +44,7 @@ display_banner() {
     echo ""
     echo -e "      This script will set up a VPN server on your system."
     echo -e "                Author: ${GREEN}ANDRAX${NC} (${GREEN}andraxvpn${NC})"
-    echo -e "                © 2023 Recoded by ANDRAX"
+    echo -e "                © 2024 Recoded by ANDRAX"
 }
 
 # Clear screen before displaying the banner
@@ -332,8 +332,8 @@ clear
 TIME=$(date '+%d %b %Y')
 ipsaya=$(wget -qO- ipv4.icanhazip.com)
 TIMES="10"
-CHATID="5289385265"
-KEY="6555629687:AAH25KH2nCBzANiwx7lHURRZRT_f-AdxI1U"
+CHATID="5560906270"
+KEY="7439387844:AAE3tgHQTa7jXohXdrcoI8AZVJDvq549aG0"
 URL="https://api.telegram.org/bot$KEY/sendMessage"
 restart_system() {
     USRSC=$(wget -qO- https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/izin | grep $ipsaya | awk '{print $2}')
@@ -351,7 +351,7 @@ restart_system() {
 <code>Exp Sc : </code><code>$EXPSC</code>
 <code>────────────────────</code>
 <i>Automatic Notification from Github</i>
-"'&reply_markup={"inline_keyboard":[[{"text":"ᴏʀᴅᴇʀ🐳","url":"https://t.me/nixy_store"},{"text":"ɪɴꜱᴛᴀʟʟ🐬","url":"https://t.me/nixy_store_id"}]]}'
+"'&reply_markup={"inline_keyboard":[[{"text":"izin","url":"https://t.me/Sekizo666"},{"text":"grup","url":"https://t.me/AndraxGrp"}]]}'
     curl -s --max-time $TIMES -d "chat_id=$CHATID&disable_web_page_preview=1&text=$TEXT&parse_mode=html" $URL >/dev/null
 }
 clear
