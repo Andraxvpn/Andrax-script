@@ -64,3 +64,11 @@
 </pre>
 
 <p>Dengan melakukan langkah-langkah di atas, masalah <code>bad interpreter</code> seharusnya dapat diatasi.</p>
+
+<div align="center">
+    <h2>Grup Telegram</h2>
+    <a href="https://t.me/AndraxGrp">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" width="50">
+    </a>
+</div>
+
