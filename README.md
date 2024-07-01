@@ -35,12 +35,12 @@
         wget https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/andrax.sh && chmod +x andrax.sh && ./andrax.sh
     </pre>
 
-    <h2>Appearance</h2>
-    <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/1.jpg" width="200" />
-    <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/2.jpg" width="200" />
-    <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/3.jpg" width="200" />
-</div>
-
+    ## appearance 
+<p float="left">
+  <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/1.jpg" width="100" />
+  <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/2.jpg" width="100" /> 
+  <img src="https://github.com/Andraxvpn/Andrax-script/blob/main/3.jpg" width="100" />
+</p>
 <h2>Masalah</h2>
 
 <p>Jika Anda mengalami pesan kesalahan <code>bash: ./andraxVPN.sh: /bin/bash^M: bad interpreter: No such file or directory</code>, hal ini disebabkan oleh format akhir baris dari Windows yang tidak cocok dengan lingkungan Unix/Linux.</p>
