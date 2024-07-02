@@ -43,19 +43,19 @@
 </p>
 <h2>Masalah</h2>
 
-<p>Jika Anda mengalami pesan kesalahan <code>bash: ./andraxVPN.sh: /bin/bash^M: bad interpreter: No such file or directory</code>, hal ini disebabkan oleh format akhir baris dari Windows yang tidak cocok dengan lingkungan Unix/Linux.</p>
+<p>Jika Anda mengalami pesan kesalahan <code>bash: ./andraxVPN.sh: /bin/bash^M: bad interpreter: No such file or directory</code>, </p>
 
 <h2>Solusi</h2>
 
-<h3>Langkah 1: Konversi Format Akhir Baris</h3>
+<h3>langkah 1: install dos2unix</h3>
+<pre>apt install dos2unix</pre>
+
+<h3>Langkah 2: Konversi Format Akhir Baris</h3>
 <p>Gunakan perintah berikut untuk mengubah format akhir baris dari Windows ke Unix/Linux:</p>
 <pre>
     dos2unix andraxVPN.sh
 </pre>
-<p>Jika Anda tidak memiliki <code>dos2unix</code>, gunakan perintah alternatif:</p>
-<pre>
-    tr -d '\r' &lt; andraxVPN.sh &gt; andraxVPN_unix.sh
-</pre>
+
 
 <h3>Langkah 2: Jalankan Script Kembali</h3>
 <p>Setelah konversi selesai, jalankan kembali script dengan perintah:</p>
