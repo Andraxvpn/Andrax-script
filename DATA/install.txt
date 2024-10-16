@@ -1,0 +1,71 @@
+Berikut adalah tampilan petunjuk instalasi dalam format teks yang lebih rapi dan profesional:
+
+---
+
+# **Panduan Instalasi AndraxVPN**
+
+### **Langkah 1: Memperbarui Sistem dan Menginstal Paket yang Diperlukan**
+
+Jalankan perintah berikut di terminal Anda untuk memperbarui sistem dan menginstal paket yang dibutuhkan:
+
+```bash
+apt update -y && apt upgrade -y
+apt install -y lolcat
+gem install lolcat
+```
+
+### **Langkah 2: Mengunduh dan Menjalankan Skrip VPN**
+
+Setelah sistem terupdate, lanjutkan dengan mengunduh dan menjalankan skrip `andraxVPN.sh` dengan perintah berikut:
+
+```bash
+wget -q https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/andraxVPN.sh
+chmod +x andraxVPN.sh
+./andraxVPN.sh
+```
+
+### **Langkah 3: Mengunduh dan Menjalankan Skrip Andrax**
+
+Kemudian, unduh dan jalankan skrip `andrax.sh` menggunakan perintah berikut:
+
+```bash
+wget https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/andrax.sh
+chmod +x andrax.sh
+./andrax.sh
+```
+
+---
+
+## **Masalah Umum:**
+
+### **Pesan Kesalahan:**
+Jika Anda mendapatkan pesan kesalahan berikut:
+```
+bash: ./andraxVPN.sh: /bin/bash^M: bad interpreter: No such file or directory
+```
+
+### **Solusi:**
+
+1. **Install `dos2unix`:**  
+   Untuk mengonversi format akhir baris dari Windows (CRLF) ke Unix/Linux (LF), gunakan perintah berikut:
+   ```bash
+   apt install dos2unix
+   ```
+
+2. **Konversi Format Akhir Baris:**  
+   Ubah format akhir baris pada skrip `andraxVPN.sh` menggunakan perintah:
+   ```bash
+   dos2unix andraxVPN.sh
+   ```
+
+3. **Jalankan Kembali Skrip:**  
+   Setelah konversi selesai, jalankan skrip kembali dengan perintah:
+   ```bash
+   ./andraxVPN.sh
+   ```
+
+---
+
+Dengan panduan ini, Anda akan dapat menginstal dan menjalankan skrip VPN dengan lancar. Jika ada pertanyaan atau masalah lainnya, jangan ragu untuk menghubungi kami!
+
+---
