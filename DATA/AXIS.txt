@@ -1,0 +1,99 @@
+#Bug Axis Unli Games
+
+
+🔄Mode Bolak Balik🔄
+↯
+IP:
+• 172.67.6.144
+• 104.16.108.96
+• 104.16.107.96
+• 162.159.136.54
+• 104.18.29.106
+• 104.18.28.106
+• 162.159.128.7
+• 162.159.138.6
+• 104.16.108.96
+• 104.19.185.16
+• 104.19.186.16
+• 104.19.142.89
+• 104.19.142.108
+• 104.18.21.219
+• 104.18.30.102
+• 104.18.20.94
+• 104.18.21.94
+
+Host:
+• tracker.metricool.com
+• zendesk1.garena.com
+• v1-cdn.cricket.miniclippt.com
+• golfbattle.miniclippt.com
+• vx-cdn.golfbattle.miniclippt.com
+• poe.garena.com
+• cdn.appsflyer.com
+• cf-vod.nimo.tv
+• cdn.appsflyer.com
+• zendesk1.appsflyer.com
+
+⬇️Mode SSL/SNI (TKP Tertentu)⬇️
+• west-tdm.codmwest.com
+• pb.garena.com
+• sp1.garena.com
+• activision.helpshift.com
+• tencentgames.helpshift.com
+• server.pubgmobile.com
+• vip.pubgmobile.com
+• akmpicture.youngjoygame.com
+
+
+#Bug Axis/XL Sushiroll
+
+🔄Mode Bolak Balik & WSS🔄
+↯
+Host:
+• www.sushiroll.co.id
+
+IP:
+• 104.21.69.223
+• 172.67.213.134
+
+
+Bug XL/Axis Conference
+
+🔄Mode Bolak Balik🔄
+↯
+IP: 
+• 104.18.12.78
+• 104.18.13.78
+• 104.18.30.9
+• 104.26.4.192
+• 170.114.45.0
+
+Host:
+• gomarketplacecontent-cf.zoom.us
+• zoomappdocs.zoom.us
+• chat.sociomile.com
+• source.zoom.us
+
+⬇️Mode SSL/SNI Trojan Port 443 atau 80 (TKP Tertentu)⬇️
+↯
+• teams.live.com
+• store.zoom.us
+• talkgadget.google.com
+• meetings.googleapis.com
+• presence.teams.live.com
+• msgapi.teams.live.com
+
+
+#Bug XL/Axis Viu
+
+🔄Mode Bolak Balik🔄
+↯
+IP:
+• 104.18.0.139
+• 104.18.1.139
+• 104.16.51.111
+• 104.16.53.111
+
+Host:
+• cfcdn.viu.com
+• help.viu.com
