@@ -28,7 +28,7 @@
     <h2>COMMAND</h2>
     <img src="https://img.shields.io/badge/INSTALL-SCRIPT-green">
     <pre>
-        apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/andraxVPN.sh && chmod +x install.sh && ./install.sh
+        apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/install.sh && chmod +x install.sh && ./install.sh
     </pre>
     <img src="https://img.shields.io/badge/UPDATE-SCRIPT-green">
     <pre>
