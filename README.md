@@ -28,7 +28,7 @@
     <h2>COMMAND</h2>
     <img src="https://img.shields.io/badge/INSTALL-SCRIPT-green">
     <pre>
-        apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/andraxVPN.sh && chmod +x andraxVPN.sh && ./andraxVPN.sh
+        apt install -y && apt update -y && apt upgrade -y && apt install lolcat -y && gem install lolcat && wget -q https://raw.githubusercontent.com/Andraxvpn/Andrax-script/main/andraxVPN.sh && chmod +x install.sh && ./install.sh
     </pre>
     <img src="https://img.shields.io/badge/UPDATE-SCRIPT-green">
     <pre>
@@ -43,7 +43,7 @@
 </p>
 <h2>Masalah</h2>
 
-<p>Jika Anda mengalami pesan kesalahan <code>bash: ./andraxVPN.sh: /bin/bash^M: bad interpreter: No such file or directory</code>, </p>
+<p>Jika Anda mengalami pesan kesalahan <code>bash: ./install.sh: /bin/bash^M: bad interpreter: No such file or directory</code>, </p>
 
 <h2>Solusi</h2>
 
@@ -53,21 +53,21 @@
 <h3>Langkah 2: Konversi Format Akhir Baris</h3>
 <p>Gunakan perintah berikut untuk mengubah format akhir baris dari Windows ke Unix/Linux:</p>
 <pre>
-    dos2unix andraxVPN.sh
+    dos2unix install.sh
 </pre>
 
 
 <h3>Langkah 2: Jalankan Script Kembali</h3>
 <p>Setelah konversi selesai, jalankan kembali script dengan perintah:</p>
 <pre>
-    ./andraxVPN.sh
+    ./install.sh
 </pre>
 
 <p>Dengan melakukan langkah-langkah di atas, masalah <code>bad interpreter</code> seharusnya dapat diatasi.</p>
 
 <div align="center">
     <h2>Grup Telegram</h2>
-    <a href="https://t.me/AndraxGrp">
+    <a href="https://t.me/ANDRAXnett">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png" width="50">
     </a>
 </div>
